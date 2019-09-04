@@ -4,3 +4,7 @@ labextension:
     class: KubeCluster
     args: []
     kwargs: {}
+  default:
+    adapt:
+      minimum: 0
+      maximum: 10
