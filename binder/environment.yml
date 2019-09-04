@@ -2,13 +2,16 @@ name: tracmip
 channels:
   - conda-forge
 dependencies:
-  - xarray
   - dask-kubernetes
   - gcsfs
   - intake-xarray
-  - zarr
-  - nc-time-axis
-  - matplotlib
   - jupyter-server-proxy
+  - jupyterlab
+  - matplotlib
+  - nc-time-axis
+  - pip
+  - xarray
+  - zarr
   - pip:
+    - dask-labextension
     - kubernetes
