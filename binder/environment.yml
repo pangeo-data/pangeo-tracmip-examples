@@ -1,4 +1,4 @@
-name: pangeo
+name: tracmip
 channels:
   - conda-forge
 dependencies:
@@ -7,8 +7,8 @@ dependencies:
   - gcsfs
   - intake-xarray
   - zarr
-  - matplotlib
   - nc-time-axis
-  - pip
+  - matplotlib
+  - jupyter-server-proxy
   - pip:
     - kubernetes
