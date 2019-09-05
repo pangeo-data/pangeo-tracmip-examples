@@ -10,6 +10,7 @@ dependencies:
   - matplotlib
   - nc-time-axis
   - pip
+  - qgrid
   - xarray
   - zarr
   - pip:
