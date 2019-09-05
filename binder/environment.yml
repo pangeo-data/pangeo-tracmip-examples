@@ -6,12 +6,12 @@ dependencies:
   - gcsfs
   - intake-xarray
   - jupyter-server-proxy
-  - jupyterlab=1.0.9
+  - jupyterlab==1.0.9
   - matplotlib
   - nc-time-axis
   - pip
   - xarray
   - zarr
   - pip:
-    - dask-labextension=1.0.0
+    - dask-labextension==1.0.0
     - kubernetes
