@@ -1,20 +1,12 @@
-=============================
-pangeo-tracmip-examples
-=============================
+Pangeo-TRACMIP Binder
+-----------------------
 
-pangeo-tracmip-examples contains all the boilerplate you need to create a Pangeo-Binder ready repository.
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/charlesbluca/pangeo-tracmip-examples/master)
 
-Try these notebooks on pangeo.binder.io_ : |Binder|
+This repository will serve as a domain for all example notebooks for accessing TRACMIP data stored on Pangeo's Google Cloud bucket. As new examples are added, hopefully this Binder will allow for the TRACMIP team to perform data analysis within the created environment.
 
-See http://pangeo.io for more information.
+Notebooks
+---------
 
-Features
---------
-
-* TODO
-
-.. _pangeo.binder.io: http://binder.pangeo.io/
-
-.. |Binder| image:: http://binder.pangeo.io/badge.svg
-    :target: http://binder.pangeo.io/v2/gh/charlesbluca/pangeo-tracmip-examples/master
-
+- `hello_world.ipynb`: a basic example of getting a Kubernetes cluster up and running
+- `qgrid_test.ipynb`: a basic example of exploring the TRACMIP data using `qgrid`'s filtering system
