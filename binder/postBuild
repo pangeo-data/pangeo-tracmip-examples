@@ -15,3 +15,6 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager \
                              jupyter-leaflet \
                              dask-labextension \
                              qgrid.git/js/
+                             
+# remove intermediary qgrid fork
+rm -rf qgrid.git
