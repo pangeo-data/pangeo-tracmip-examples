@@ -10,9 +10,9 @@ dependencies:
   - matplotlib
   - nc-time-axis
   - pip
+  - qgrid
   - xarray
   - zarr
   - pip:
     - dask-labextension
     - kubernetes
-    - qgrid
