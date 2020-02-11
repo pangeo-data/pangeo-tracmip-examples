@@ -7,6 +7,6 @@ https://console.cloud.google.com/storage/browser/cmip6/tracmip
 
 This repo also doubles as a [Binder](https://mybinder.readthedocs.io/en/latest/), a reproducible Python environment which allows users to play around with TRACMIP data using the examples provided here. This Binder can be accessed with the button below:
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/charlesbluca/pangeo-tracmip-examples/master)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/pangeo-data/pangeo-tracmip-examples/master)
 
 For more information, check out the wiki.
